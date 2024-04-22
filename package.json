@@ -1,0 +1,26 @@
+{
+  "name": "crud_user",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yenifervalencia/crud_user.git"
+  },
+  "keywords": [],
+  "author": "YeniferValenciaEstrada",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yenifervalencia/crud_user/issues"
+  },
+  "homepage": "https://github.com/yenifervalencia/crud_user#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
