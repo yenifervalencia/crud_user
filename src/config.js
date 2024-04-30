@@ -2,6 +2,9 @@ const { config }=require("dotenv");
 
 config();
 
+/**
+ * call environmenet variable 
+ */
 module.exports = {
     host: process.env.HOST || "",
     database: process.env.DATABASE || "",
